@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Class 6</string>
+    <string name="your_second_grade">Your second grade</string>
+    <string name="name">Name:</string>
+    <string name="insert_your_name_here">Insert your name here</string>
+    <string name="your_first_grade">Your first grade</string>
+    <string name="first_grade">First Grade</string>
+    <string name="second_grade">Second Grade</string>
+    <string name="insert_grades">Insert grades</string>
+    <string name="calculate_average">Calculate average</string>
+    <string name="average">Average</string>
+</resources>
